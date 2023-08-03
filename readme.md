@@ -1,4 +1,4 @@
-### Conhecimento literário
+### Brincando com a Literátura - Teste seu conhecimento literário
 
 Brincando com a Literatura é um projeto que desenvolvi na semana de pré admissão do bootcamp da laboratória.
 
