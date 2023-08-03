@@ -1,3 +1,5 @@
+### Conhecimento literário
+
 Brincando com a Literatura é um projeto que desenvolvi na semana de pré admissão do bootcamp da laboratória.
 
 Projeto foi desenvolvido em HTML, Javascript e Css e trata-se de uma página onde o jogador vai poder testar seus conhecimentos literários.
@@ -12,6 +14,9 @@ Sendo correta a resposta, a cor da fonte muda, ficando vermelho para resposta er
 Ao enviar o formulário, o jogador terá sua pontuação divulgada através de um Alert, que abre trazendo o resultado e uma mensagem ao jogador.
 
 Você pode visualizar o projeto e o esboço nos links abaixo
+
+Link Netlify
+https://conhecimento-literario.netlify.app/
 
 Link do repositório do projeto no replit
 https://replit.com/@MarciaB/Trivia
